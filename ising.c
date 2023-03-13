@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
 	
 	char grid[LENGTH][LENGTH];
 	
-	int N = 20;
+	int N = 100;
 	for (int t = 0; t < N; t++) {
 
 		// Initializes grid
